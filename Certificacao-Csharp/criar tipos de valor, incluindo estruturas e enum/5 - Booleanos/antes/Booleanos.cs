@@ -10,7 +10,26 @@ namespace Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum.
     {
         public void Executar()
         {
-            throw new NotImplementedException();
+            //bool possuiSaldo = 1;
+            bool possuiSaldo = true;
+
+            Console.WriteLine($"possuiSaldo: {possuiSaldo}");
+            //________________________________________________
+            int dias = DateTime.Now.Day;
+            Console.WriteLine($"dias: {dias}");
+            //______________________________________
+
+            //Atribui a diasPar o valor de uma expressão booleana
+            bool diasPar = (dias % 2 == 0);
+
+            if (diasPar)
+            {
+                Console.WriteLine("dias é um número par");
+            }
+            else
+            {
+                Console.WriteLine("dias é um número ímpar");
+            }
         }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._1__Tipo_de_valor.antes;
 using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._2__Tipos_Inteiros.antes;
 using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._3___Tipos_de_Ponto_Flutuante.antes;
+using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._4___Decimal.antes;
 using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._5___Booleanos.antes;
 using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._6___Estruturas_Definidas_pelo_Usuário.antes;
 using Certificacao_Csharp.criar_tipos_de_valor__incluindo_estruturas_e_enum._7___Enums.antes;
@@ -78,7 +79,7 @@ namespace Certificacao_Csharp
                 new MenuItem("Tipos de Valor", typeof(TiposDeValor)),
                 new MenuItem("Tipos Inteiros", typeof(TipoDeInteiros)),
                 new MenuItem("Ponto Flututante", typeof(PontoFlutuante)),
-                new MenuItem("Decimal", typeof(Decimal)),
+                new MenuItem("Decimal", typeof(TipoDecimal)),
                 new MenuItem("Booleanos", typeof(Booleanos)),
                 new MenuItem("Estruturas", typeof(Estruturas)),
                 new MenuItem("Enumeracoes", typeof(Enumeracoes)),

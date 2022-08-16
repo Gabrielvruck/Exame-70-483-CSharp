@@ -49,7 +49,7 @@
     <Compile Include="criar tipos de valor, incluindo estruturas e enum\2- Tipos Inteiros\depois\Inteiros.cs" />
     <Compile Include="criar tipos de valor, incluindo estruturas e enum\3 - Tipos de Ponto Flutuante\antes\PontoFlutuante.cs" />
     <Compile Include="criar tipos de valor, incluindo estruturas e enum\3 - Tipos de Ponto Flutuante\depois\PontoFlutuante.cs" />
-    <Compile Include="criar tipos de valor, incluindo estruturas e enum\4 - Decimal\antes\Decimal.cs" />
+    <Compile Include="criar tipos de valor, incluindo estruturas e enum\4 - Decimal\antes\TipoDecimal.cs" />
     <Compile Include="criar tipos de valor, incluindo estruturas e enum\4 - Decimal\depois\Decimal.cs" />
     <Compile Include="criar tipos de valor, incluindo estruturas e enum\5 - Booleanos\antes\Booleanos.cs" />
     <Compile Include="criar tipos de valor, incluindo estruturas e enum\5 - Booleanos\depois\Booleanos.cs" />
