@@ -1,0 +1,8 @@
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\bin\Debug\Certificacao-Csharp.exe.config
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\bin\Debug\Certificacao-Csharp.exe
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\bin\Debug\Certificacao-Csharp.pdb
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\obj\Debug\Certificacao-Csharp.csproj.AssemblyReference.cache
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\obj\Debug\Certificacao-Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\obj\Debug\Certificacao-Csharp.csproj.CoreCompileInputs.cache
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\obj\Debug\Certificacao-Csharp.exe
+C:\Projetos\Certificacao-Csharp\Certificacao-Csharp\obj\Debug\Certificacao-Csharp.pdb
